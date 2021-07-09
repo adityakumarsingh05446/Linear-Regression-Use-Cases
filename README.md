@@ -1,1 +1,1 @@
-# Linear-Regression-Use-Cases
+# USA House Price Prediction ML model
